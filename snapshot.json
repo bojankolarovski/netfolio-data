@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-06-07T19:57:14.963168+00:00",
+  "fetched_at": "2026-06-07T20:04:47.422575+00:00",
   "date": "2026-06-07",
   "summary": {
-    "total_usd": 146.96,
-    "change_24h_usd": -10.71,
-    "change_24h_pct": -6.79,
+    "total_usd": 166.37,
+    "change_24h_usd": -10.31,
+    "change_24h_pct": -5.84,
     "binance": {
-      "total_usd": 21.0,
-      "change_24h_usd": 0.23,
-      "change_24h_pct": 1.11
+      "total_usd": 40.41,
+      "change_24h_usd": 0.63,
+      "change_24h_pct": 1.58
     },
     "t212": {
       "total_usd": 125.96,
@@ -27,36 +27,45 @@
   "binance": [
     {
       "symbol": "BTC",
-      "amount": 0.00027972,
-      "price_usd": 61331.43,
-      "value_usd": 17.16,
-      "change_24h_pct": 1.11,
-      "change_24h_usd": 0.19,
+      "amount": 0.00057942,
+      "price_usd": 61482.31,
+      "value_usd": 35.62,
+      "change_24h_pct": 1.57,
+      "change_24h_usd": 0.55,
       "in_earn": false
     },
     {
       "symbol": "ADA",
       "amount": 21.61604969,
-      "price_usd": 0.1588,
-      "value_usd": 3.43,
-      "change_24h_pct": 1.02,
-      "change_24h_usd": 0.03,
+      "price_usd": 0.1591,
+      "value_usd": 3.44,
+      "change_24h_pct": 1.79,
+      "change_24h_usd": 0.06,
+      "in_earn": false
+    },
+    {
+      "symbol": "USDT",
+      "amount": 0.596899,
+      "price_usd": 1.0,
+      "value_usd": 0.6,
+      "change_24h_pct": 0.0,
+      "change_24h_usd": 0.0,
       "in_earn": false
     },
     {
       "symbol": "ETH",
       "amount": 0.0002462,
-      "price_usd": 1615.31,
+      "price_usd": 1617.1,
       "value_usd": 0.4,
-      "change_24h_pct": 3.7,
-      "change_24h_usd": 0.01,
+      "change_24h_pct": 4.21,
+      "change_24h_usd": 0.02,
       "in_earn": false
     },
     {
-      "symbol": "USDT",
-      "amount": 0.013401,
+      "symbol": "USD",
+      "amount": 0.3476,
       "price_usd": 1.0,
-      "value_usd": 0.01,
+      "value_usd": 0.35,
       "change_24h_pct": 0.0,
       "change_24h_usd": 0.0,
       "in_earn": false
