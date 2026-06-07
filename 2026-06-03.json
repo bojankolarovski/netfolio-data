@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-06-03T08:00:00+00:00",
+  "date": "2026-06-03",
+  "summary": {
+    "total_usd": 181.21,
+    "change_24h_usd": 0,
+    "change_24h_pct": 0,
+    "binance": { "total_usd": 42.11, "change_24h_usd": 0, "change_24h_pct": 0 },
+    "t212":    { "total_usd": 139.1, "change_24h_usd": 0, "change_24h_pct": 0 }
+  },
+  "binance": [],
+  "t212": []
+}
