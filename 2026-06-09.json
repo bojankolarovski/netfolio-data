@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-09T20:38:32.277315+00:00",
+  "fetched_at": "2026-06-09T20:39:24.180589+00:00",
   "date": "2026-06-09",
   "summary": {
     "total_usd": 165.25,
@@ -76,11 +76,11 @@
       "ticker": "NVDA_US_EQ",
       "name": "Nvidia",
       "quantity": 0.213539,
-      "current_price": 207.8,
+      "current_price": 207.78,
       "value_usd": 44.37,
       "avg_price": 172.8022,
       "ppl": 7.47,
-      "change_24h_pct": 20.25,
+      "change_24h_pct": 20.24,
       "change_24h_usd": 7.47
     },
     {
@@ -98,22 +98,22 @@
       "ticker": "AAPL_US_EQ",
       "name": "Apple",
       "quantity": 0.108217,
-      "current_price": 291.12,
+      "current_price": 291.08,
       "value_usd": 31.5,
       "avg_price": 277.22,
       "ppl": 1.5,
-      "change_24h_pct": 5.01,
+      "change_24h_pct": 5.0,
       "change_24h_usd": 1.5
     },
     {
       "ticker": "SNII_US_EQ",
       "name": "Rigetti Computing",
       "quantity": 0.690926,
-      "current_price": 19.95,
+      "current_price": 19.94,
       "value_usd": 13.78,
       "avg_price": 43.42,
       "ppl": -16.22,
-      "change_24h_pct": -54.05,
+      "change_24h_pct": -54.08,
       "change_24h_usd": -16.22
     }
   ]
