@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-06-19T16:00:06.699897+00:00",
+  "fetched_at": "2026-06-19T17:00:06.120240+00:00",
   "date": "2026-06-19",
   "summary": {
-    "total_usd": 244.15,
-    "change_24h_usd": 1.05,
-    "change_24h_pct": 0.43,
+    "total_usd": 243.99,
+    "change_24h_usd": 0.64,
+    "change_24h_pct": 0.26,
     "binance": {
-      "total_usd": 41.5,
-      "change_24h_usd": 0.54,
-      "change_24h_pct": 1.32
+      "total_usd": 41.34,
+      "change_24h_usd": 0.13,
+      "change_24h_pct": 0.32
     },
     "t212": {
       "total_usd": 202.65,
@@ -16,8 +16,8 @@
       "change_24h_pct": 0.25
     },
     "change_7d": {
-      "usd": 52.77,
-      "pct": 27.57
+      "usd": 52.61,
+      "pct": 27.49
     },
     "change_30d": {
       "usd": null,
@@ -28,19 +28,19 @@
     {
       "symbol": "BTC",
       "amount": 0.00057942,
-      "price_usd": 63210.85,
-      "value_usd": 36.63,
-      "change_24h_pct": 1.38,
-      "change_24h_usd": 0.5,
+      "price_usd": 62990.0,
+      "value_usd": 36.5,
+      "change_24h_pct": 0.46,
+      "change_24h_usd": 0.17,
       "in_earn": false
     },
     {
       "symbol": "ADA",
       "amount": 21.61604969,
-      "price_usd": 0.1618,
-      "value_usd": 3.5,
-      "change_24h_pct": 1.0,
-      "change_24h_usd": 0.03,
+      "price_usd": 0.1606,
+      "value_usd": 3.47,
+      "change_24h_pct": -1.17,
+      "change_24h_usd": -0.04,
       "in_earn": false
     },
     {
@@ -55,10 +55,10 @@
     {
       "symbol": "ETH",
       "amount": 0.0002462,
-      "price_usd": 1707.61,
+      "price_usd": 1697.53,
       "value_usd": 0.42,
-      "change_24h_pct": 1.59,
-      "change_24h_usd": 0.01,
+      "change_24h_pct": 0.6,
+      "change_24h_usd": 0.0,
       "in_earn": false
     },
     {
