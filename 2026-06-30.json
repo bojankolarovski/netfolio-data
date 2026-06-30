@@ -1,23 +1,23 @@
 {
-  "fetched_at": "2026-06-30T22:00:08.967219+00:00",
+  "fetched_at": "2026-06-30T23:00:08.136991+00:00",
   "date": "2026-06-30",
   "summary": {
-    "total_usd": 228.92,
-    "change_24h_usd": 3.34,
-    "change_24h_pct": 1.48,
+    "total_usd": 229.46,
+    "change_24h_usd": 3.96,
+    "change_24h_pct": 1.76,
     "binance": {
-      "total_usd": 38.45,
-      "change_24h_usd": -1.14,
-      "change_24h_pct": -2.88
+      "total_usd": 38.43,
+      "change_24h_usd": -1.05,
+      "change_24h_pct": -2.66
     },
     "t212": {
-      "total_usd": 190.47,
-      "change_24h_usd": 4.48,
-      "change_24h_pct": 2.41
+      "total_usd": 191.03,
+      "change_24h_usd": 5.01,
+      "change_24h_pct": 2.69
     },
     "change_7d": {
-      "usd": 1.45,
-      "pct": 0.64
+      "usd": 1.99,
+      "pct": 0.87
     },
     "change_30d": {
       "usd": null,
@@ -28,10 +28,10 @@
     {
       "symbol": "BTC",
       "amount": 0.00057942,
-      "price_usd": 58658.25,
-      "value_usd": 33.99,
-      "change_24h_pct": -3.01,
-      "change_24h_usd": -1.06,
+      "price_usd": 58624.0,
+      "value_usd": 33.97,
+      "change_24h_pct": -2.86,
+      "change_24h_usd": -1.0,
       "in_earn": false
     },
     {
@@ -39,8 +39,8 @@
       "amount": 21.61604969,
       "price_usd": 0.1442,
       "value_usd": 3.12,
-      "change_24h_pct": -2.1,
-      "change_24h_usd": -0.07,
+      "change_24h_pct": -1.37,
+      "change_24h_usd": -0.04,
       "in_earn": false
     },
     {
@@ -55,9 +55,9 @@
     {
       "symbol": "ETH",
       "amount": 0.0002462,
-      "price_usd": 1572.14,
+      "price_usd": 1568.16,
       "value_usd": 0.39,
-      "change_24h_pct": -2.95,
+      "change_24h_pct": -2.77,
       "change_24h_usd": -0.01,
       "in_earn": false
     },
@@ -76,56 +76,56 @@
       "ticker": "SPCX_US_EQ",
       "name": "SpaceX",
       "quantity": 0.425728,
-      "current_price": 170.54,
-      "value_usd": 72.6,
+      "current_price": 172.18,
+      "value_usd": 73.3,
       "avg_price": 176.2628,
-      "ppl": -2.44,
-      "change_24h_pct": 6.38,
-      "change_24h_usd": 4.36
+      "ppl": -1.74,
+      "change_24h_pct": 7.4,
+      "change_24h_usd": 5.05
     },
     {
       "ticker": "NVDA_US_EQ",
       "name": "Nvidia",
       "quantity": 0.213539,
-      "current_price": 199.42,
-      "value_usd": 42.58,
+      "current_price": 199.3,
+      "value_usd": 42.56,
       "avg_price": 172.8022,
-      "ppl": 5.68,
-      "change_24h_pct": -0.8,
-      "change_24h_usd": -0.34
+      "ppl": 5.66,
+      "change_24h_pct": -0.86,
+      "change_24h_usd": -0.37
     },
     {
       "ticker": "AAPL_US_EQ",
       "name": "Apple",
       "quantity": 0.108217,
-      "current_price": 289.06,
+      "current_price": 289.04,
       "value_usd": 31.28,
       "avg_price": 277.22,
       "ppl": 1.28,
-      "change_24h_pct": -0.84,
+      "change_24h_pct": -0.85,
       "change_24h_usd": -0.27
     },
     {
       "ticker": "PLTR_US_EQ",
       "name": "Palantir",
       "quantity": 0.260841,
-      "current_price": 117.72,
-      "value_usd": 30.71,
+      "current_price": 117.39,
+      "value_usd": 30.62,
       "avg_price": 153.35,
-      "ppl": -9.29,
-      "change_24h_pct": 4.02,
-      "change_24h_usd": 1.19
+      "ppl": -9.38,
+      "change_24h_pct": 3.73,
+      "change_24h_usd": 1.1
     },
     {
       "ticker": "SNII_US_EQ",
       "name": "Rigetti Computing",
       "quantity": 0.690926,
-      "current_price": 19.25,
-      "value_usd": 13.3,
+      "current_price": 19.2,
+      "value_usd": 13.27,
       "avg_price": 43.42,
-      "ppl": -16.7,
-      "change_24h_pct": -3.36,
-      "change_24h_usd": -0.46
+      "ppl": -16.73,
+      "change_24h_pct": -3.61,
+      "change_24h_usd": -0.5
     }
   ]
 }
